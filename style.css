@@ -3,3 +3,8 @@ h1{
     font-size: xx-large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+p{
+    font-size: 14pt;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
